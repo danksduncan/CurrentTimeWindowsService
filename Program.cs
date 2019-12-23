@@ -15,6 +15,7 @@ namespace CurrentTimeWindowsService
             Service1 myService = new Service1();
             myService.OnDeBug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+            Console.WriteLine("No Issues");
 #else
 
             ServiceBase[] ServicesToRun;
