@@ -28,7 +28,7 @@ namespace CurrentTimeWindowsService
             aTimer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
             aTimer.Enabled = true;
 
-            bTimer = new System.Timers.Timer(600000);
+            bTimer = new System.Timers.Timer(60000);
             bTimer.Elapsed += new ElapsedEventHandler(OnDeleteEvent);
             bTimer.Enabled = true;
         }
