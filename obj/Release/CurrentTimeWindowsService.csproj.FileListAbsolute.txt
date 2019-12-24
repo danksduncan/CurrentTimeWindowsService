@@ -1,0 +1,8 @@
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Release\CurrentTimeWindowsService.exe.config
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Release\CurrentTimeWindowsService.exe
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Release\CurrentTimeWindowsService.pdb
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Release\CurrentTimeWindowsService.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Release\CurrentTimeWindowsService.ProjectInstaller.resources
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Release\CurrentTimeWindowsService.csproj.GenerateResource.cache
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Release\CurrentTimeWindowsService.exe
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Release\CurrentTimeWindowsService.pdb

@@ -6,3 +6,11 @@ C:\Users\conta\OneDrive\Desktop\Code Projects\CurrentTimeWindowsService\obj\Debu
 C:\Users\conta\OneDrive\Desktop\Code Projects\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.pdb
 C:\Users\conta\OneDrive\Desktop\Code Projects\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.ProjectInstaller.resources
 C:\Users\conta\OneDrive\Desktop\Code Projects\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.csproj.GenerateResource.cache
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Debug\CurrentTimeWindowsService.exe.config
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Debug\CurrentTimeWindowsService.exe
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\bin\Debug\CurrentTimeWindowsService.pdb
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.ProjectInstaller.resources
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.csproj.GenerateResource.cache
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.exe
+C:\Users\conta\OneDrive\Desktop\CurrentTimeWindowsService\obj\Debug\CurrentTimeWindowsService.pdb
